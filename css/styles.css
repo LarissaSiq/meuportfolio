@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+body{
+    background-color: rgb(31, 31, 31);
+}
+
+.photo{
+    margin-top: 50px;
+}
+.photo-avatar{
+    margin-top:70px
+}
+#sendMessageButton{
+    padding: 5px 35px;
+}
+nav{
+    display: flex;
+    position: fixed;
+    background-color: #394658;
+    text-align: center
+    ;
+    
+}
+li{
+    margin-left: 312px;
+    width: 0%;
+}
+header{
+    background-color: rgb(29, 29, 29);
+    margin: 0;
+}
+#contact{
+    background-color: rgb(255, 255, 255);
+    height: 650px;
+}
+#sobremim{
+    font-size: 19px;
+    color: white;
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 190px;
+    margin-right: 200px;
+}
+.esquerda{
+    float: left;
+    width: 57%;
+}
+footer{
+   
+    background-color: rgb(48, 52, 68);
+}
+#footer{
+    padding-top: 15px;
+}
+footer p{
+    display: inline-block;
+    font-family: Montserrat, sans-serif;
+    width: 33%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size:15px;
+}
+
+footer p a {
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+}
+
+footer p a:hover{
+    color: rgb(175, 12, 88);
+}
+#estrelapreta{
+    margin-left: 385px;
+}
